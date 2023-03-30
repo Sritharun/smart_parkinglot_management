@@ -10,6 +10,8 @@ Components used :
 6) Push Buttons
 7) wires, breadboard and USB connector for arduino 
 
+///-------------------------------------------------------------------------//////////------------------------------------------------------------------------------///
+
 
 The Design and implementation of a parking control system using Arduino uno board to do the following tasks:
 
@@ -20,7 +22,7 @@ The Design and implementation of a parking control system using Arduino uno boar
 3.	It is assumed that the capacity of the parking lot is 13 spots. When the parking is full, the message on the LCD has to change from “Welcome!!!”  to “Plz come later.” with the available parking spots of 0. In this case, the barrier bar should not open if a driver tries to enter the parking by pressing the Enter button.
 
 
-
+///-------------------------------------------------------------------------//////////------------------------------------------------------------------------------///
 
 TEST CASES:
 The implemented project will be fully tested to ensure that the project objectives are met. A sample test may include the following steps.
